@@ -1,7 +1,7 @@
 # Edopro Project Ignis field theme
 A theme for the new Ygopro, Edopro: Project Ignis (only supports MR4 and MR2020)
 
-![Screenshot 1](https://raw.githubusercontent.com/sefeiba/edopro-project-ignis-theme/master/ss2.png)
+![Screenshot 1](https://raw.githubusercontent.com/sefeiba/edopro-project-ignis-theme/master/ss3.png)
 ![Screenshot 2](https://raw.githubusercontent.com/sefeiba/edopro-project-ignis-theme/master/ss1.png)
 
 # Quick docs
